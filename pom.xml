@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.projeto</groupId>
-    <artifactId>backend</artifactId>
+    <artifactId>inventory-movement-manager-api</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>backend</name>
+    <name>Inventory Movement Manager API</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
